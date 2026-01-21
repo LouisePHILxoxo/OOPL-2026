@@ -1,4 +1,3 @@
-package week1;
 public class Phone {
     String displaySize;
     double storage;
