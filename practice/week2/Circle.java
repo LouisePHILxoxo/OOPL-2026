@@ -1,3 +1,4 @@
+package practice.week2;
 public class Circle {
     double radius;
     public static final double PI = 3.14159;
