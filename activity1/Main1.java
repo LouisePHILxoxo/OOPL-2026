@@ -1,6 +1,6 @@
 package activity1;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
      Book book1 = new Book ("To Kill a Mockingbird", "Harper Lee", "978-0061120084", "July 11, 1960");
      Book book2 = new Book ("1984", "George Orwell", "978-0451524935", "June 9, 1949");
